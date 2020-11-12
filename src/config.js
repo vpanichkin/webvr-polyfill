@@ -60,7 +60,7 @@ export default {
   // from https://github.com/WebVRRocks/webvr-polyfill-dpdb; if left
   // falsy, then no attempt is made.
   // Added in 0.10.0
-  DPDB_URL: 'https://dpdb.webvr.rocks/dpdb.json',
+  DPDB_URL: 'https://raw.githubusercontent.com/vpanichkin/webvr-polyfill-dpdb/samsungA40/dpdb.json',
 
   // Complementary filter coefficient. 0 for accelerometer, 1 for gyro.
   K_FILTER: 0.98,
